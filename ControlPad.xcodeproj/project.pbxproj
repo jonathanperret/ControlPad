@@ -16,8 +16,6 @@
 		CE23586411A2092600593C86 /* SessionController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE23586311A2092600593C86 /* SessionController.m */; };
 		CE235A1511A23FC400593C86 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE235A1411A23FC400593C86 /* AVFoundation.framework */; };
 		CE7759F811A8BB10001D542F /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE7759F711A8BB10001D542F /* MediaPlayer.framework */; };
-		CE775A1A11A8BDB7001D542F /* IOKit in Resources */ = {isa = PBXBuildFile; fileRef = CE775A0211A8BDB7001D542F /* IOKit */; };
-		CE775A1B11A8BDB7001D542F /* libkern in Resources */ = {isa = PBXBuildFile; fileRef = CE775A1711A8BDB7001D542F /* libkern */; };
 		CE775A3C11A8C28A001D542F /* libIOKit.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE775A3B11A8C28A001D542F /* libIOKit.dylib */; };
 		CEC613FA1192516E00431552 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC613F91192516E00431552 /* GameKit.framework */; };
 		CEE8572611AA050C00784F8D /* ConnectedIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = CEE8571A11AA050C00784F8D /* ConnectedIcon.png */; };
@@ -206,8 +204,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE775A1A11A8BDB7001D542F /* IOKit in Resources */,
-				CE775A1B11A8BDB7001D542F /* libkern in Resources */,
 				CEE8572611AA050C00784F8D /* ConnectedIcon.png in Resources */,
 				CEE8572711AA050C00784F8D /* Default.png in Resources */,
 				CEE8572811AA050C00784F8D /* grayButton.png in Resources */,
